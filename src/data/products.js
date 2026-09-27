@@ -1,0 +1,18 @@
+export const PRODUCTS = [
+  { id: 1,  name: 'The Sovereign Lounge',    category: 'Lounge Chair',  price: '$4,850',  image: 'https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&w=900&q=80', tag: 'Bestseller' },
+  { id: 2,  name: 'Aurum Three-Seater',      category: 'Sofa',          price: '$12,400', image: 'https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=900&q=80', tag: 'New' },
+  { id: 3,  name: 'Verdant Velvet Armchair', category: 'Armchair',      price: '$3,980',  image: 'https://images.unsplash.com/photo-1592078615290-033ee584e267?auto=format&fit=crop&w=900&q=80', tag: '' },
+  { id: 4,  name: 'Noir Marble Dining Table',category: 'Dining',        price: '$8,650',  image: 'https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&w=900&q=80', tag: 'Limited' },
+  { id: 5,  name: 'Cassia Oak Sideboard',    category: 'Storage',       price: '$5,200',  image: 'https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?auto=format&fit=crop&w=900&q=80', tag: '' },
+  { id: 6,  name: 'Regency Wing Chair',      category: 'Armchair',      price: '$4,300',  image: 'https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?auto=format&fit=crop&w=900&q=80', tag: 'Iconic' },
+  { id: 7,  name: 'Terra Modular Sofa',      category: 'Sofa',          price: '$14,900', image: 'https://images.unsplash.com/photo-1540574163026-643ea20ade25?auto=format&fit=crop&w=900&q=80', tag: 'New' },
+  { id: 8,  name: 'Heritage Coffee Table',   category: 'Occasional',    price: '$3,150',  image: 'https://images.unsplash.com/photo-1567016432779-094069958ea5?auto=format&fit=crop&w=900&q=80', tag: '' },
+  { id: 9,  name: 'Lumière Floor Lamp',      category: 'Lighting',      price: '$1,850',  image: 'https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80', tag: '' },
+  { id: 10, name: 'Bordeaux Dining Chair',   category: 'Dining',        price: '$980',    image: 'https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=900&q=80', tag: '' },
+  { id: 11, name: 'Atelier Writing Desk',    category: 'Storage',       price: '$6,400',  image: 'https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=900&q=80', tag: 'Bestseller' },
+  { id: 12, name: 'Venezia Bed Frame',       category: 'Bedroom',       price: '$9,750',  image: 'https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80', tag: 'Iconic' },
+  { id: 13, name: 'Marbella Accent Chair',   category: 'Armchair',      price: '$3,450',  image: 'https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=900&q=80', tag: '' },
+  { id: 14, name: 'Florentine Console',      category: 'Occasional',    price: '$4,100',  image: 'https://images.unsplash.com/photo-1538688525198-9b88f6f53126?auto=format&fit=crop&w=900&q=80', tag: 'New' },
+  { id: 15, name: 'Solstice Bookshelf',      category: 'Storage',       price: '$5,800',  image: 'https://images.unsplash.com/photo-1594620302200-9a762244a156?auto=format&fit=crop&w=900&q=80', tag: '' },
+  { id: 16, name: 'Lumière Pendant Light',   category: 'Lighting',      price: '$1,250',  image: 'https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?auto=format&fit=crop&w=900&q=80', tag: 'Limited' },
+];
